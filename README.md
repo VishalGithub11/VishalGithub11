@@ -17,10 +17,10 @@ Skills: REACT / JS / HTML / CSS / SASS / NODE / MONGODB/ EXPRESS
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vishal-modanwal-49b94b14a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vishal-modanwal-49b94b14a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vishal%20Modanwal%-blue?style=flat-square&logo=linkedin"></a>
  
 
-<a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-modanwalvishal-blue?style=flat-square&logo=gmail"></a>
+<a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-modanwalvishal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
