@@ -22,6 +22,7 @@ Skills: REACT / JS / HTML / CSS / SASS / NODE / MONGODB/ EXPRESS
 
 <a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-modanwalvishal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vishal%20Modanwal%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 
 
