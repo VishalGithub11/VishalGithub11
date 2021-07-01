@@ -17,14 +17,14 @@ Skills: REACT / JS / HTML / CSS / SASS / NODE / MONGODB/ EXPRESS
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vishal-modanwal-49b94b14a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vishal%20Modanwal-blue?style=flat-square&logo=linkedin"></a> <a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-modanwalvishal@gmail.com-blue?style=flat-square&logo=gmail"></a> <a href="https://github.com/VishalGithub11"><img alt="Github" src="https://img.shields.io/badge/Github-VishalGithub11-blue?style=flat-square&logo=github"></a><a href="https://codesandbox.io/u/Vishbox11"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSaandbox-Vishal11-blue?style=flat-square&logo=codesandbox"></a>
+<a href="https://www.linkedin.com/in/vishal-modanwal-49b94b14a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vishal%20Modanwal-blue?style=flat-square&logo=linkedin"></a> <a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-modanwalvishal@gmail.com-blue?style=flat-square&logo=gmail"></a>  <a href="https://github.com/VishalGithub11"><img alt="Github" src="https://img.shields.io/badge/Github-VishalGithub11-blue?style=flat-square&logo=github"></a> <a href="https://codesandbox.io/u/Vishbox11"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSaandbox-Vishal11-blue?style=flat-square&logo=codesandbox"></a>
   
 </p>
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalGithub11&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGithub11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalGithub11&count_private=true&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGithub11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
