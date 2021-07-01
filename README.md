@@ -13,6 +13,16 @@ Skills: REACT / JS / HTML / CSS / SASS / NODE / MONGODB/ EXPRESS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VishalGithub11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-modanwal-49b94b14a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Vishbox11)  
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vishal-modanwal-49b94b14a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+ 
+
+<a href="modanwalvishal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalGithub11&count_private=true&show_icons=true&theme=radical)
